@@ -5,10 +5,10 @@
         "revision": "3b7cba3e1c32e5908f8f688033bd614195c020d7"
       },
       "homebrew/cask": {
-        "revision": "fb6c98b7bfe367c93b691cb25ed01b647ef80053"
+        "revision": "b9a2752383dc63c78d966b2f7b1d067c3aec9361"
       },
       "homebrew/core": {
-        "revision": "383269fb392703cbf4407e57217ce061b6aafe66"
+        "revision": "0aac4f7a1500353f3726dffaaf07e92794054029"
       },
       "homebrew/cask-fonts": {
         "revision": "f5619209ce92260bf07780b5b8eac38bb6ea5dd4"
@@ -1042,15 +1042,21 @@
         "options": {
           "full_name": "vmware-fusion"
         }
+      },
+      "todoist": {
+        "version": "8.0.6",
+        "options": {
+          "full_name": "todoist"
+        }
       }
     }
   },
   "system": {
     "macos": {
       "monterey": {
-        "HOMEBREW_VERSION": "3.3.16-15-g6661f5b",
+        "HOMEBREW_VERSION": "3.3.16",
         "HOMEBREW_PREFIX": "/opt/homebrew",
-        "Homebrew/homebrew-core": "383269fb392703cbf4407e57217ce061b6aafe66",
+        "Homebrew/homebrew-core": "0aac4f7a1500353f3726dffaaf07e92794054029",
         "CLT": "13.2.0.0.1.1638488800",
         "Xcode": "13.2.1",
         "macOS": "12.2.1"
