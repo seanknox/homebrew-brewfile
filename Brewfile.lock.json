@@ -923,12 +923,6 @@
           "full_name": "dropbox"
         }
       },
-      "evernote": {
-        "version": "10.31.6,3237,31284dfc1e",
-        "options": {
-          "full_name": "evernote"
-        }
-      },
       "firefox": {
         "version": "97.0.1",
         "options": {
